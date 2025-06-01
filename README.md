@@ -236,13 +236,6 @@ interface ValidateResponse {
 }
 ```
 
-## 🔒 Security
-
-- All API keys are encrypted at rest
-- Input validation on all endpoints
-- Rate limiting on generation endpoints
-- CORS protection enabled
-
 ## 📈 Roadmap
 
 - [ ] **V2.0**: Real-time collaboration on ideas
